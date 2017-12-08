@@ -19,7 +19,6 @@ public class HelloServlet extends GenericTpServlet {
      */
     public HelloServlet() {
         super();
-        // TODO Auto-generated constructor stub
     }
 
 	/**
